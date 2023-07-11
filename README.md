@@ -36,7 +36,7 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flaviobaptista&bg_color=141E30&border_color=6dd5ed&title_color=7F7FD5&text_color=FFF)
 
 ## Card - Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=flaviobaptista&theme=bear&background=141E30&border=6dd5ed&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=flaviobaptista&theme=tokyonight&background=141E30&border=6dd5ed&dates=FFF)](https://git.io/streak-stats)
 
 ## Minhas Contribuições e Projetod DIO
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviobaptista&repo=projeto-dio-lab-open-source&bg_color=141E30&border_color=6dd5ed&show_icons=true&icon_color=78ffd6&title_color=7F7FD5&text_color=FFF)](https://github.com/flaviobaptista/projeto-dio-lab-open-source)
@@ -47,8 +47,15 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - O programador created by <a href="https://br.freepik.com/vetores-gratis/o-programador-trabalha-com-ilustracao-plana-dos-simbolos-do-dia-de-trabalho_15329611.htm#page=5&query=developer&position=31&from_view=search&track=sph#position=31&page=5&query=developer">Imagem de macrovector</a> no Freepik <br>
+  - Template inspired by - <a href="https://github.com/elidianaandrade">Elidiana Andrade</a>
+  <br>
+  <br>
+  <br>
+
  
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+  <div align="center">Modified by <a href="https://github.com/flaviobaptista">Flávio P. Baptista</a>.</div>
+    <br>
 
 </details>
+
