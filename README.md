@@ -18,7 +18,7 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
 <p>
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141E30?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/flaviopbaptista/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141E30?style=for-the-badge&logo=linkedin&logoColor=6dd5ed)](https://www.linkedin.com/in/flaviopbaptista/)
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-141E30?style=for-the-badge&logo=html5)
@@ -44,6 +44,8 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
 
 <details align="left">
   <summary></summary> 
+
+  ## Attributions and references
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
