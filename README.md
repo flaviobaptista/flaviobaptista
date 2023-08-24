@@ -28,9 +28,7 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-141E30?style=for-the-badge&logo=bootstrap)
 
 
-## GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviobaptista&theme=transparent&bg_color=141E30&border_color=6dd5ed&show_icons=true&icon_color=78ffd6&title_color=7F7FD5&text_color=FFF)
 
 ## Card - Most Used Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flaviobaptista&bg_color=141E30&border_color=6dd5ed&title_color=7F7FD5&text_color=FFF)
@@ -38,8 +36,6 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
 ## Card - Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=flaviobaptista&theme=tokyonight&background=141E30&border=6dd5ed&dates=FFF)](https://git.io/streak-stats)
 
-## Minhas Contribuições e Projetod DIO
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviobaptista&repo=projeto-dio-lab-open-source&bg_color=141E30&border_color=6dd5ed&show_icons=true&icon_color=78ffd6&title_color=7F7FD5&text_color=FFF)](https://github.com/flaviobaptista/projeto-dio-lab-open-source)
 <br>
 
 <details align="left">
