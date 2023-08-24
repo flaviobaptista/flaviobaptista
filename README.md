@@ -26,6 +26,7 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
 ![Javascript](https://img.shields.io/badge/Javascript-141E30?style=for-the-badge&logo=javascript)
 ![React.Js](https://img.shields.io/badge/React.js-141E30?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-141E30?style=for-the-badge&logo=bootstrap)
+![Python](https://img.shields.io/badge/Python-141E30?style=for-the-badge&logo=Python)
 
 
 
