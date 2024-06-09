@@ -5,7 +5,7 @@
 <p align="justify">Olá, seja muito bem-vindo ao meu GitHub!
 <br>
 <br>
-Sou um profissional persistente e dedicado, em busca de desafios e oportunidades de crescimento na área de Tecnologia da Informação. Atualmente, sou graduado no curso de Tecnólogo em Análise e Desenvolvimento de Sistemas.
+Sou um profissional persistente e dedicado, em busca de desafios e oportunidades de crescimento na área de Tecnologia da Informação. Atualmente, sou graduado Tecnólogo em Análise e Desenvolvimento de Sistemas.
 <br>
 <br>
 Estou me especializando em desenvolvimento web frontend, com conhecimentos sólidos em HTML5, CSS3 e JavaScript, além de experiência com frameworks como React.js, Next.js e Bootstrap. Estou sempre buscando melhorar minhas habilidades nessa área em constante evolução.
