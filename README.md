@@ -8,10 +8,10 @@
 Sou um profissional persistente e dedicado, em busca de desafios e oportunidades de crescimento na área de Tecnologia da Informação. Atualmente, sou graduado Tecnólogo em Análise e Desenvolvimento de Sistemas.
 <br>
 <br>
-Estou me especializando em desenvolvimento web frontend, com conhecimentos sólidos em HTML5, CSS3 e JavaScript, além de experiência com frameworks como React.js, Next.js e Bootstrap. Estou sempre buscando melhorar minhas habilidades nessa área em constante evolução.
+Atualmente me especializando em Análise de Dados, com conhecimentos sólidos em Excel e em processo de aprendizagem contínua em SQL e Power BI. Tenho como próximos objetivos o aprofundamento em matemática, estatística, técnicas de storytelling com dados e Python. Sou autodidata, curioso por natureza e estou sempre em busca de evoluir profissionalmente nessa área dinâmica e em constante transformação.
 <br>
 <br>
-Além da minha formação acadêmica, sou uma pessoa autodidata e sempre busco atualizações e aprimoramento contínuo. Minha persistência e dedicação são características que me impulsionam a superar desafios.
+Além da minha formação, também possuo conhecimentos em HTML, CSS e familiaridade com JavaScript. Já tive contato com frameworks e ferramentas como Bootstrap, Next.js, React e Firebase. Tenho noções básicas de versionamento com Git e GitHub. Também tenho habilidades com ferramentas de design e edição, como Photoshop CS6, Figma, Filmora Wondershare e CapCut. Essas experiências complementares ampliam minha visão técnica e criativa, contribuindo para projetos mais completos e bem estruturados.
 <br>
 <br>
 Estou disponível para contatos e novos desafios, conecte-se comigo e me convide para um bate-papo. Será um prazer responder às suas perguntas e discutir possíveis oportunidades de colaboração.
