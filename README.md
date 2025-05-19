@@ -47,14 +47,9 @@ Estou disponível para contatos e novos desafios, conecte-se comigo e me convide
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - O programador created by <a href="https://br.freepik.com/vetores-gratis/o-programador-trabalha-com-ilustracao-plana-dos-simbolos-do-dia-de-trabalho_15329611.htm#page=5&query=developer&position=31&from_view=search&track=sph#position=31&page=5&query=developer">Imagem de macrovector</a> no Freepik <br>
-  - Template inspired by - <a href="https://github.com/elidianaandrade">Elidiana Andrade</a>
   <br>
   <br>
   <br>
-
- 
-  <div align="center">Modified by <a href="https://github.com/flaviobaptista">Flávio P. Baptista</a>.</div>
-    <br>
 
 </details>
 
