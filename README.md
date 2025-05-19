@@ -1,6 +1,6 @@
 # Flávio P. Baptista
 
-<img align="right" alt="Developer Art" width="460px" src="./assets/dev-art.png">
+<img align="right" alt="Developer Art" width="450px" src="./assets/dev-art.png">
 
 <p align="justify">Olá, seja muito bem-vindo ao meu GitHub!
 <br>
